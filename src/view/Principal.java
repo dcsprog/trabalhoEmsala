@@ -102,7 +102,7 @@ public class Principal {
 		Collections.sort(bd,ordenar);
 		new Aluno().listarAlunos(bd,n1);
 		
-		
+		//pesquisa em ->https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html//
 		
 	}
 	
